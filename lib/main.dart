@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'src/homeScreen.dart';
+import 'src/cuperScafoldScreen.dart';
 
 void main() => runApp(MyApp());
 
